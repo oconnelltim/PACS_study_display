@@ -1,0 +1,219 @@
+html {
+    scrollbar-base-color: black;
+    scrollbar-arrow-color: white;
+    scrollbar-track-color: #150517;
+
+    scrollbar-shadow-color: black;
+    scrollbar-lightshadow-color: black;
+    scrollbar-darkshadow-color: gray;
+
+    scrollbar-highlight-color: #150517;
+    scrollbar-3dlight-color: black;
+}
+
+table.title {
+	color: white;
+}
+
+table.title td.heading {
+	padding: 7px 7px 7px 7px;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+table.title td.img_left {
+	float:left;
+	text-align: center;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+table.title td.img_right {
+	float:right;
+	font-size: 2em;
+	font-weight: bold;
+}
+
+table.ctlist {
+    border: solid white 1px;
+    border-collapse: collapse;
+    border-bottom: thin;
+    font-size:1.2em;
+    color: white;
+}
+
+table.ctlist tr.d0 td {
+	background-color: #336699;
+	padding: 7px 7px 7px 7px;
+}
+table.ctlist tr.d1 td {
+	background-color: #000000;
+	padding: 7px 7px 7px 7px;
+}
+
+table.ctlist2 tr.heading th {
+	background-color: #000000;
+	padding: 4px 4px 4px 4px;
+	font-size:1.4em;
+	font-weight:bold;
+	color: white;
+}
+
+table.ctlist2 {
+    border: solid white 1px;
+    border-collapse: collapse;
+    border-bottom: thin;
+    font-size:1.2em;
+    color: white;
+}
+
+table.ctlist2 tr.d0 td {
+	background-color: #003C6D;
+	padding: 2px 2px 2px 2px;
+	white-space: nowrap;
+}
+
+table.ctlist2 tr.d1 td {
+	background-color: #000000;
+	padding: 2px 2px 2px 2px;
+	white-space: nowrap;
+}
+
+table.ctlist2 tr td.red{
+	background-color: #FF0000;
+	color: white;
+	font-weight:bold;
+}
+
+table.ctlist2 tr td.yellow {
+	background-color: #FFFF40;
+	color: black;
+	font-weight:bold;
+}
+
+table.ctlist2 tr td.darkgreen {
+	background-color: #006600;
+	color: white;
+	font-weight:bold;
+}
+
+table.ctlist2 tr td.lightgreen {
+	background-color: #66FF33;
+	color: black;
+	font-weight:bold;
+}
+
+table.ctlist2 tr.blue td {
+	background-color: #336699;
+	color: white;
+	font-weight:bold;
+}
+
+table.ctlist2 tr.black td {
+	background-color: #000000;
+	color: white;
+	font-weight:bold;
+}
+
+table.comments {
+    table-layout: fixed;
+    width: 100%;
+    border: solid white 1px;
+    border-collapse: collapse;
+    border-bottom: thin;
+    font-size:1.2em;
+    color: white;
+    word-wrap: break-word;
+}
+
+table.comments tr.heading th {
+	background-color: #000000;
+	padding: 4px 4px 4px 4px;
+	font-size:1.4em;
+	font-weight:bold;
+	color: white;
+}
+
+table.comments tr.d0 td {
+	background-color: #003C6D;
+	padding: 2px 2px 2px 2px;
+}
+
+table.comments tr.d1 td {
+	background-color: #000000;
+	padding: 2px 2px 2px 2px;
+}
+
+table.comments tr td.red{
+	background-color: #FF0000;
+	color: white;
+	font-weight:bold;
+}
+
+table.comments tr td.yellow {
+	background-color: #FFFF40;
+	color: black;
+	font-weight:bold;
+}
+
+table.comments tr td.darkgreen {
+	background-color: #006600;
+	color: white;
+	font-weight:bold;
+}
+
+table.comments tr td.lightgreen {
+	background-color: #66FF33;
+	color: black;
+	font-weight:bold;
+}
+
+table.comments tr.blue td {
+	background-color: #336699;
+	color: white;
+	font-weight:bold;
+}
+
+table.comments tr.black td {
+	background-color: #000000;
+	color: white;
+	font-weight:bold;
+}
+
+
+table.study_list {
+    border: solid white 1px;
+    border-collapse: collapse;
+    color: white;
+}
+table.study_list tr.d0 td {
+	background-color: #336699;
+}
+
+table.study_list tr.d1 td {
+	background-color: #000000;
+}
+
+img {
+    text-align:center;
+    display:block;
+}
+
+img.float_left {
+	float: left;
+	margin: 4px;
+}
+
+img.float_right {
+	float: right;
+	margin: 4px;
+}
+
+#main {
+	background-color:black;
+	font-family: verdana, "verdana", sans-serif;
+	font-size:1em;
+	color: white;
+}
+
